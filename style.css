@@ -1,0 +1,73 @@
+.headers{
+  background-color: #EAF6F6;
+  height: 500px;
+  padding-top: 50px;
+  text-align: center;
+}
+.image{
+  max-width: 10%;
+  text-align: center;
+  width: 200px;
+}
+.text{
+  font-style: italic;
+  font-size: 50px;
+  text-align: center;
+  border-top: 50px;
+  color: #66BFBF;
+}
+.text2{
+  color: #66BFBF;
+  font-size: 35px;
+  text-align: center;
+}
+.content{
+  text-align: center;
+}
+h1{
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+  font-size: 35px;
+}
+p{
+  font-size: 25px;
+  font-family: #40514E;
+}
+.myskill{
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+
+}
+.programimg{
+  max-width: 25%;
+    float: left;
+}
+.hobby{
+  margin: 100px auto 200px auto;
+  text-align: right;
+  width: 50%;
+}
+.messi{
+  max-width: 35%;
+  float: left;
+  border-radius: 25%;
+  margin-top: auto;
+}
+.getintouch{
+  text-align: center;
+}
+.h3{
+  font-style: italic;
+  color: red;
+}
+.foot{
+  height: 150px;
+  text-align: center;
+  background-color: #66BFBF;
+  font-family: italic;
+  font-size: 30px;
+  color: #EAF6F6;
+}
